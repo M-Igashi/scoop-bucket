@@ -1,12 +1,12 @@
 {
-    "version": "1.4.3",
+    "version": "1.5.0",
     "description": "Audio loudness analyzer and gain adjustment tool for mastering and DJ workflows",
     "homepage": "https://github.com/M-Igashi/headroom",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/M-Igashi/headroom/releases/download/v1.4.3/headroom-v1.4.3-windows-x86_64.zip",
-            "hash": "08219b29c4a38a688ec9453028cddb905155b12294d49b1a44b0b79536f6b67d",
+            "url": "https://github.com/M-Igashi/headroom/releases/download/v1.5.0/headroom-v1.5.0-windows-x86_64.zip",
+            "hash": "3f6bd89f1fc969cb296673a21682de626a9e61e71c990669151bf37209fa1d44",
             "bin": "headroom.exe"
         }
     },
