@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/M-Igashi/mp3rgain/releases/download/v1.7.0/mp3rgain-v1.7.0-windows-x86_64.zip",
-            "hash": "ace95e8ca6b67e776369b62b430d06ad99679603d0501fe2a25e4b09926b6e43"
+            "hash": "6c3e65c248641322f75815bdae0fc931f46252507e95ead13468773ade203132"
         },
         "arm64": {
             "url": "https://github.com/M-Igashi/mp3rgain/releases/download/v1.7.0/mp3rgain-v1.7.0-windows-arm64.zip",
-            "hash": "058ad1f4e78249363ae6cd5f17da6e37817cc70ef22c56eda98b6767ff2a1c49"
+            "hash": "b27c3257d9215d934123e991e3e7458cb07877d2f35f06da17af695e63db76a7"
         }
     },
     "bin": "mp3rgain.exe",
